@@ -25,4 +25,4 @@ Reading and writing for academic purpose
 + research papers
 
 Notes:
-Motivating students to lifelong learning???
+Motivating lifelong learning???
