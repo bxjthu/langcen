@@ -1,4 +1,4 @@
-# English for Academic Purpose
+# EAP
 
 ## Scenarios of application
 
